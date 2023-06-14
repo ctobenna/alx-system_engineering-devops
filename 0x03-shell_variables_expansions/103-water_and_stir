@@ -1,2 +1,2 @@
 #!/bin/bash
-water=$WATER; stir=$STIR; result=$((water + stir)); echo "The result is: $result
+water=$WATER; stir=$STIR; result=$((water + stir))
